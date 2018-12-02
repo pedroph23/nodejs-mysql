@@ -1,0 +1,15 @@
+{
+  "name": "shf",
+  "version": "1.0.0",
+  "description": "Sistema Smart House, integração de API entre componentes físicos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Henrique G Ramalho",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.18.7",
+    "restify": "^7.2.3"
+  }
+}
